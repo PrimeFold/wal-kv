@@ -1,6 +1,5 @@
 Here is the complete Markdown documentation inside a single code block for easy copying:
 
-```markdown
 # wal-kv
 
 > A minimalist, crash-resilient in-memory Key-Value engine backed by an append-only Write-Ahead Log (WAL) with strict CRC32 frame checksumming, tombstone deletions, and hardware-enforced durability.
